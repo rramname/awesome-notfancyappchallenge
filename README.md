@@ -30,6 +30,8 @@ Please read the [contribution](/CONTRIBUTING.md) guideline before adding your ch
 
 - [Not Fancy Rock Paper Scissors](https://github.com/Nima-Ra/Rock-Paper-Scissors-not-fancy) - Not Fancy Game, you vs your computer. By [Nima Ra](https://github.com/Nima-Ra)
 
+- [Not Fancy simple calculator] (https://codepen.io/rramname/pen/JZMYze) - This a simple calculator created with CSS Grids and Javascript
+
 ### jQuery
 
 - [Not Fancy BMI calculator](https://github.com/Nima-Ra/bmi) - Not Fancy BMI calculator. By [Nima Ra](https://github.com/nima-ra)
